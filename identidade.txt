@@ -1,2 +1,4 @@
 nome:kelven ronanh
 cpf: 03046372116
+idade:31
+altura: 1.72
