@@ -4,3 +4,4 @@ idade:31
 altura: 1.72
 cidade: santa maria
 Estado: DF
+cor de cabelo: preto
